@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 import '../../data/model/contact_data.dart';
-import '../../widget/input_contact _widget.dart';
+import '../../widget/input_contact_widget.dart';
 
 class AddContactPage extends StatelessWidget {
   AddContactPage({super.key, required this.addList});

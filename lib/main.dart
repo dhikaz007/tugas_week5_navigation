@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import 'feature/ui/contact/contact_list_page.dart';
-import 'feature/ui/main/main_page.dart';
 import 'feature/ui/splash/splash_page.dart';
 
 void main() {
